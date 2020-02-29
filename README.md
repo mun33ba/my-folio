@@ -13,7 +13,7 @@ If you created something awesome and want to contribute then feel free to open P
 ✔️ Achievements And Certifications 🏆\
 ✔️ Contact me
 
-To view a live example, **[click here](https://mun33ba.github.io/)**
+To view a live example, **[click here](https://mun33ba.github.io/my-folio/)**
 
 
 ## Getting Started 🚀
