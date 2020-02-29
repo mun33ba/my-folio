@@ -15,7 +15,6 @@ If you created something awesome and want to contribute then feel free to open P
 
 To view a live example, **[click here](https://mun33ba.github.io/my-folio/)**
 
-
 ## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -29,7 +28,6 @@ git@2.17.1 or higher
 ```
 
 ---
-
 ## How To Use 🔧
 
 From your command line, clone and run:
@@ -69,11 +67,7 @@ const skillsSection = { .... }
 
 const openSource = { .... } 
 
-const bigProjects = { .... }
-
 const achievementSection = { .... }
-
-const blogSection = { .... }
 
 const contactInfo = { .... }
 
