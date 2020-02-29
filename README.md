@@ -8,9 +8,4 @@ If you created something awesome and want to contribute then feel free to open P
 
 ## Sections
 
-heavy_check_mark Summary and About me
-heavy_check_mark Skills
-heavy_check_mark Open Source Projects Connected with Github
-heavy_check_mark Achievements And Certifications trophy
-heavy_check_mark Contact me
 
