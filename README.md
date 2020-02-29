@@ -54,8 +54,8 @@ $ npm install
 
 const gretting = {
   /* Your Summary And Gretting Section */
-  title: "Hi all 👋 I'm Saad",
-  subTitle: "A passionate Full Stack Software Developer 🚀.
+  title: "Hi all 👋 I'm Muneeba",
+    subTitle:"A passionate Undergraduate 🚀 having an experience of building Web applications with JavaScript / Reactjs  and some other cool libraries and frameworks",
 };
 
 const socialMediaLinks = {
